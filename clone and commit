@@ -1,0 +1,5 @@
+clone syntax
+git clone [--template=<template_directory>]
+
+commit syntax
+git commit [-a | --interactive | --patch] [-s] [-v] [-u<mode>] [--amend]
